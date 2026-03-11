@@ -1,3 +1,5 @@
+#Basic intro generator and that's also show the logged in time.
+
 import datetime
 
 name = input("What is your name? ").strip()
@@ -19,5 +21,6 @@ intro_message += f"\n Logged on {current_date}"
 
 border = "*" * 80
 final_output = f"{border}\n{intro_message}\n{border}"
+
 
 print("\n" + final_output)
