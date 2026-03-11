@@ -1,3 +1,4 @@
+#Social media(i.e. Instagram, Facebook, ☓ etc) Bio generator.
 import textwrap
 
 name = input("Enter your name: ").strip()
@@ -36,4 +37,5 @@ if save == 'y':
     filename = f"{name.lower().replace(' ', '_')}_bio.txt"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(bio)
+
     print("File saved")
