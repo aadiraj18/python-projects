@@ -26,7 +26,7 @@ def check_Password_strength(password):
     issue = []
     if len(password) < 8:
         issue.append("Too Short (minimum 8 characters)")
-        #.islower is a checker method which just weather this value is lower or not     
+        #.islower is a checker method which just check weather this value is lower or not     
     if not any(c.islower() for c in password):
         issue.append("Missing lower case letter")
     if not any(c.isupper() for c in password):
