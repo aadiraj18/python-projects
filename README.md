@@ -1,4 +1,26 @@
-# python-projects
+# 🐍 Python Projects Collection
+
+A collection of beginner-to-intermediate Python projects covering:
+- CLI tools
+- Automation scripts
+- Mini utilities
+
+💡 Built to strengthen problem-solving and core Python skills.
+
+---
+
+## 📚 Table of Contents
+- Self Introduction Generator
+- Stylish Bio Generator
+- Bill Splitter
+- Minutes Alive Calculator
+- Emoji Enhancer
+- Learning Journal Logger
+- Terminal Task Manager
+- Password Strength Checker
+- Countdown Timer
+- Caesar Cipher Tool
+- Friendship Compatibility Calculator
 
 # Self Introduction Generator ✅
 
